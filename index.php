@@ -5,7 +5,7 @@
 <body>
 	<h1>Hello goorm</h1>
 	<?php
-		echo "Contents here";
+		echo "Contents here ver1";
 	?>
 </body>
 </html>
