@@ -1,9 +1,9 @@
 <html>
 <head>
-	<title>Hello goorm</title>
+	<title>Hello bery's Home</title>
 </head>
 <body>
-	<h1>Hello goorm</h1>
+	<h1>Hello bery's Home</h1>
 	<?php
 		echo "Contents here ver1";
 	?>
